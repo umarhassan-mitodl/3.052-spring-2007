@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides a midterm exam review, mid term and final exams,
   exam solutions, and sample problems from prior years.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

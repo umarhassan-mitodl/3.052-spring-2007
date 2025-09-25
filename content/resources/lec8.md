@@ -5,6 +5,8 @@ description: Lecture notes about qualitative Introduction to intra- and intermol
 file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/dc69ca7d09d0c0c8cb0adaf3a639a6d8_lec8.pdf
 file_size: 622080
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
