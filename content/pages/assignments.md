@@ -13,7 +13,7 @@ video_metadata:
   youtube_id: null
 ---
 
-\*\* **Important**: In the following table, the WSxM ZIP files for homeworks 2 and 5 contain .txt files (hw2\_wsxm\_nanoparticle.txt and hw5\_wsxm\_chondrocyte.txt) that are for use with free {{% resource_link "9cd112ae-8cca-4368-9f0c-fb7943ada147" "Nanotec WSxM software" %}}. This file format starts with an ASCII variable size header followed by the binary data of the image. You may open the file with an ASCII editor like Notepad and see the header of the file, but  **do not try to save the file from the ASCII editor because it will destroy the binary data!**
+\*\* **Important**: In the following table, the WSxM ZIP files for homeworks 2 and 5 contain .txt files (hw2\_wsxm\_nanoparticle.txt and hw5\_wsxm\_chondrocyte.txt) that are for use with free [Nanotec WSxM software](https://www.ncbi.nlm.nih.gov/pubmed/17503926). This file format starts with an ASCII variable size header followed by the binary data of the image. You may open the file with an ASCII editor like Notepad and see the header of the file, but  **do not try to save the file from the ASCII editor because it will destroy the binary data!**
 
 {{< tableopen >}}
 {{< theadopen >}}

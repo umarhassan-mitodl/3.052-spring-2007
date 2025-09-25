@@ -90,7 +90,7 @@ Atomic force microscope (AFM) imaging ({{% resource_link 4ca90db2-5ed2-6c7a-0cb3
 
 
 Video: "Understanding AFM"  
-({{% resource_link "43f93654-5695-4270-abe8-82320cd2bc9f" "MP4 - 109 MB" %}})  
+([MP4 - 109 MB](https://archive.org/download/MIT3.052S07/lec5_afm_intro-220k.mp4))  
 (Courtesy of Asylum Research, Inc. Used with permission)
 
 Force curve animation, from NC State University (MOV)
@@ -131,7 +131,7 @@ Single cell mechanics ({{% resource_link e2ada0fd-26fc-e085-0707-e3cc76863947 "P
 Qualitative Introduction to intra- and intermolecular forces ({{% resource_link dc69ca7d-09d0-c0c8-cb0a-daf3a639a6d8 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "9cd91f00-a1f7-4a0a-80c6-f268ab93871d" "Protein Folding demo" %}} \[You will need the MDL Chime plugin for your browser, which is a free download.\]
+[Protein Folding demo](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1618698/) \[You will need the MDL Chime plugin for your browser, which is a free download.\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -297,9 +297,9 @@ Single chain elasticity of biomacromolecules: The giant protein titin and DNA ({
 
 From the Theoretical and Computational Physics Group, UIUC:
 
-Movie of SMFS Fibronectin stretching ({{% resource_link "f32d07f1-e292-4c93-b028-e3ff096bcad2" "MPEG - 1.7 MB" %}})
+Movie of SMFS Fibronectin stretching ([MPEG - 1.7 MB](http://www.ks.uiuc.edu/Research/fibronectin/movies/stretching-fn1.mpg))
 
-{{% resource_link "c775e4c8-280f-481f-839b-79130c4f4445" "Simulations of unfolding titin immunoglobulin domains" %}}
+[Simulations of unfolding titin immunoglobulin domains](http://www.ks.uiuc.edu/Research/titinIg/)
 
 
 {{< tdclose >}}
