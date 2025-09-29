@@ -4,6 +4,8 @@ description: This syllabus section provides the course description and informati
   about prerequisites, requirements satisfied by the course, textbooks, nanomechanics
   podcasts, grading, academic honesty, exams, assignments, and the schedule of course
   topics and assignments.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

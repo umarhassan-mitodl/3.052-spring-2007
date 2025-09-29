@@ -5,6 +5,8 @@ description: 'Lecture notes about theoretical aspects of single molecule force s
 file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/c8b73f4e1fefcc77543a115c686af144_lec20.pdf
 file_size: 234770
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

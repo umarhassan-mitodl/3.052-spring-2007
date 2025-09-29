@@ -5,6 +5,8 @@ description: 'Lecture notes about nanoindentation 2: Oliver-Pharr method and one
 file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/13f5c341f4e017aa29534fd32fc1dafd_lec23.pdf
 file_size: 1020542
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

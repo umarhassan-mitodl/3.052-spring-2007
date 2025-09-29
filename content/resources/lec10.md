@@ -4,6 +4,8 @@ description: Lecture notes about molecule-surface interactions.
 file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/642644e61ef048dd80a6b56dd177aa53_lec10.pdf
 file_size: 410753
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

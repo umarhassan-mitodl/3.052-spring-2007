@@ -4,6 +4,8 @@ description: ''
 file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/55b4840a79d70e83ca30d5d35be9a913_hw2_wsxm_nanoparticle.txt
 file_size: 1089536
 file_type: text/plain
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

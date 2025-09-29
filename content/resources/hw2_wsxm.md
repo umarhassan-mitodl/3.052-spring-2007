@@ -4,6 +4,8 @@ description: This resource is a supporting file for homework 2.
 file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/ef4a45d5f4a457fd61b8e864ca2e5943_hw2_wsxm.txt
 file_size: 1088964
 file_type: text/plain
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

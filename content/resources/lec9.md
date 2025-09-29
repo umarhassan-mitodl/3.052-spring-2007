@@ -5,6 +5,8 @@ description: Lecture notes about quantitative description of intra- and intermol
 file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/64401fe8772bb8ed83da5fdd237df7f5_lec9.pdf
 file_size: 537993
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: Lecture supplement on matrix and index notation.
 file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/64109c03b0a0685b12d0587ee0aa3811_lec3_mtrix_indx.pdf
 file_size: 96021
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

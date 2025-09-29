@@ -5,6 +5,8 @@ description: 'Lecture notes about high resolution force spectroscopy (HRFS): the
 file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/13bf43445b0222923489ee0ef37f7aaf_lec2.pdf
 file_size: 685344
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

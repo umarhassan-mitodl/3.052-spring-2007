@@ -9,6 +9,8 @@ description: 'Supporting WSxM image files for homeworks 2 and 5, (hw2_wsxm_nanop
 file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/4865ce0b25fada8cdace1125aaf64e0d_hw2_wsxm_nanoparticle.zip
 file_size: 563264
 file_type: application/zip
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

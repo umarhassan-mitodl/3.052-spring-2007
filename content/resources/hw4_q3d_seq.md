@@ -4,6 +4,8 @@ description: Amino acid sequence of the protein core backbone, for problem 3d.
 file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/6096cee61366212443db652e02cabf8d_hw4_q3d_seq.pdf
 file_size: 19833
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

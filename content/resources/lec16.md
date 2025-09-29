@@ -4,6 +4,8 @@ description: Lecture notes about the nanomechanics of cartilage.
 file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/3b4ed784068f18bf8b60452e8b20dc04_lec16.pdf
 file_size: 2138445
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: Data for assignment.
 file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/95d9e757e8bb09dff18e295f3c4b4593_hw4_q2_data.xls
 file_size: 13824
 file_type: application/msword
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: Lecture notes about single cell mechanics.
 file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/e2ada0fd26fce0850707e3cc76863947_lec7.pdf
 file_size: 761770
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

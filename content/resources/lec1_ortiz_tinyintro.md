@@ -4,6 +4,8 @@ description: ''
 file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/19857382ad10d4551ca24493f5ed294d_lec1_ortiz_tinyintro.mp3
 file_size: 7487071
 file_type: audio/mpeg
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

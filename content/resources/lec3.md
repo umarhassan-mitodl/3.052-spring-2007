@@ -4,6 +4,8 @@ description: Lecture notes about additional nanomechanics instrumentation compon
 file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/97b754514de0d4942ee781964c342ab0_lec3.pdf
 file_size: 836696
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
