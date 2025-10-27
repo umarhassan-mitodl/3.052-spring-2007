@@ -5,8 +5,6 @@ description: 'Lecture notes about single chain elasticity of biomacromolecules: 
 file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/b455247ca7cf932ac5602d46183a35e8_lec21.pdf
 file_size: 849248
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

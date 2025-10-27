@@ -4,8 +4,6 @@ description: AFM image for problem 3b.
 file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/89d6a74cab9802753b827b342e633fa6_hw6_nacre_afm.stp
 file_size: 2100542
 file_type: application/octet-stream
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

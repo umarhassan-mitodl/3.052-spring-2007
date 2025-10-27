@@ -4,8 +4,6 @@ description: ''
 file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/abec1aa698b157e769767ee58066aafb_hw2_q2_data.zip
 file_size: 6612
 file_type: application/zip
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

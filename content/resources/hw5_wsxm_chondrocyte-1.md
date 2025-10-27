@@ -4,8 +4,6 @@ description: ''
 file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/5ae28b91204e7a5947ae80c65d0b5640_hw5_wsxm_chondrocyte.txt
 file_size: 1069056
 file_type: application/octet-stream
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

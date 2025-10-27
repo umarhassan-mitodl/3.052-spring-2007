@@ -4,8 +4,6 @@ description: Lecture notes about colloids and interparticle potentials.
 file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/02e2d8c0e1b822e471bd4cd1a9487fe9_lec11.pdf
 file_size: 344097
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

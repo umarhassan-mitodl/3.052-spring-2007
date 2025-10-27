@@ -5,8 +5,6 @@ description: Lecture notes with an introduction to establish the terminology, hi
 file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/b6ecf46e10d22f71fd7d0046e77146fc_lec1.pdf
 file_size: 766353
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

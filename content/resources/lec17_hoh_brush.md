@@ -4,8 +4,6 @@ description: Video Simulation of Polymer Brush Interacting with Nanosized Object
 file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/4e42e866eb6223994aebd19e1001b756_lec17_hoh_brush.avi
 file_size: 920236
 file_type: video/x-msvideo
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

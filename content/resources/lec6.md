@@ -4,8 +4,6 @@ description: 'Lecture notes about AFM imaging II: artifacts and applications.'
 file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/50b9921af4b6e9f6f039b4489ab10c2a_lec6.pdf
 file_size: 893344
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

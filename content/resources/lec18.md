@@ -5,8 +5,6 @@ description: 'Lecture notes about nanomechanics and biocompatibility: protein-bi
 file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/647a04c9fecbc9ac61f678d8492066f4_lec18.pdf
 file_size: 912926
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

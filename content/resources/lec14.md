@@ -4,8 +4,6 @@ description: Lecture notes about the electrical double layer (EDL) - part 1.
 file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/47b744cc12fafdd0b1c26a785a53abee_lec14.pdf
 file_size: 563013
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

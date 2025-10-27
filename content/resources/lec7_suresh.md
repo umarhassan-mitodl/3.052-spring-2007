@@ -4,8 +4,6 @@ description: ''
 file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/2c3217235d9a9024cd9b99677b4e76f8_lec7_suresh.mpg
 file_size: 4885160
 file_type: video/mpeg
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

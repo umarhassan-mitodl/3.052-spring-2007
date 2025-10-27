@@ -4,8 +4,6 @@ description: Homework assignment.
 file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/7f1f98ed98647890f9234ee57d33dc6a_hw5.pdf
 file_size: 59404
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

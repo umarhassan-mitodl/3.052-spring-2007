@@ -4,8 +4,6 @@ description: Lecture notes about protein-surface interactions.
 file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/4be336953fa5d139cba6035a62e46b82_lec17.pdf
 file_size: 1360880
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
